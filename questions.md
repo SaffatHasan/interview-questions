@@ -1,3 +1,6 @@
+# Perks
+* What setup stuff (laptop, monitor, keyboard) do you get?
+
 # Culture
 * What is your COVID response?
 * What flexibility is offered for WFH?
